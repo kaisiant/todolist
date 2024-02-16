@@ -1,6 +1,8 @@
 # TTrack
 
-https://ttrack.vercel.app/
+Github url: https://github.com/kaisiant/ttrack
+Demo url: https://ttrack.vercel.app/
+
 TTrack, a ticket tracking application that built with typescript react, redux, tailwindcss.
 
 # Features
@@ -30,3 +32,9 @@ TTrack, a ticket tracking application that built with typescript react, redux, t
 - utils (reusable functions)
 - features (redux slice)
 - store (redux slice)
+
+## How to run locally
+
+1. git clone https://github.com/kaisiant/ttrack.git
+2. pnpm i
+3. pnpm dev
